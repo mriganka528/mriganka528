@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack project <br>👯 I’m looking to collaborate on frontend, backend and full stack e<br>🌱 I’m currently learning Next js, Devops<br>💬 Ask me about React, Next js and any software development related queries <br>⚡ Fun fact, I get bored easily 
+🔭 I’m currently working on full stack project <br><br>👯 I’m looking to collaborate on frontend, backend and full stack e<br><br>🌱 I’m currently learning Next js, Devops<br><br>💬 Ask me about React, Next js and any software development related queries <br><br>⚡ Fun fact, I get bored easily 
 
 
 ## 🌐 Socials:
