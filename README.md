@@ -1,7 +1,7 @@
 # 💫 About Me:
- Hi 👋, I'm Mriganka Sarma<br><br>🔭 I’m currently working on full stack project<br><br>🕺🕺 I’m looking to collaborate on frontend, backend and full stack projects<br><br>🌱 I’m currently learning Next js, Devops<br><br>💬 Ask me about React, Next js and any software development related queries<br><br>⚡ Fun fact, I can debug code in my sleep😄<br><br> 👨‍💻 All of my projects are available at https://my-portfolio-delta-nine-43.vercel.app/
+ Hi 👋, I'm Mriganka Sarma<br><br>🔭 I’m currently working on full stack projects<br><br>🕺🕺 I’m looking to collaborate on frontend, backend and full stack projects<br><br>🌱 I’m currently learning Next js, Devops<br><br>💬 Ask me about React js, Next js and any software development related queries<br><br>⚡ Fun fact, I can debug code in my sleep😄<br><br> 👨‍💻 All of my projects are available at [https://my-portfolio-delta-nine-43.vercel.app/](https://my-portfolio-delta-nine-43.vercel.app/)
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.mriganka.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mriganka-sarma-987317231) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mrigank37161276) 
 
