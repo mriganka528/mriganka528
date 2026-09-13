@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Mriganka Sarma<br><br>🔭 I’m currently working on full stack projects<br><br>🕵️ I’m looking to collaborate on frontend, backend and full stack projects<br><br>🌱 I’m currently learning Next js, Devops<br><br>💬 Ask me about React js, Next js and any software development related queries<br><br>⚡ Fun fact, I can debug code in my sleep😄<br><br> 👨‍💻 All of my projects are available at [https://my-portfolio-delta-nine-43.vercel.app/](https://my-portfolio-delta-nine-43.vercel.app/)
+ Hi 👋, I'm Mriganka Sarma<br><br>🔭 I’m currently working on full stack projects<br><br>🕵️ I’m looking to collaborate on frontend, backend and full stack projects<br><br>🌱 I’m currently learning Next js, Devops<br><br>💬 Ask me about React js, Next js and any software development related queries<br><br>⚡ Fun fact, I can debug code in my sleep😄<br><br> 👨‍💻 All of my projects are available at [https://my-portfolio-delta-nine-43.vercel.app/]([https://my-portfolio-delta-nine-43.vercel.app/](https://mrigankadev.vercel.app/))
 
  
 ## 🌐 Socials:
